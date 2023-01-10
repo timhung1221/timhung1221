@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/timhung1221/imges/blob/main/for-git-hub.JPG">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/timhung1221/imges/blob/main/for-git-hub-pic.png">
   <img alt="Tim github picture."https://github.com/timhung1221/imges/blob/main/for-git-hub-pic.png">
 </picture>
                                                                                                
